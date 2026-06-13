@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! Welcome to my profile
+
+## :link: Links
+<a href="https://www.linkedin.com/in/davi-marcal"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+
+## Technologies I Use
 
 <!--
 **daviRib/daviRib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
